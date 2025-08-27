@@ -3,6 +3,7 @@
 1. Recoverit
 2. Diskgenius
 
+<!--more -->
 ## 二、Recoverit的操作说明
 1. 将这个文件Recoverit-11.0.0.13-Multi-S&C.rar，解压缩到任意位置：
 如图：
