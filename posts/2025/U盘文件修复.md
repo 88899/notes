@@ -1,6 +1,6 @@
 ---
 title: U盘文件修复
-date: 2025-08-27
+date: 2022-08-27
 categories:
   - OPS
 tags:
@@ -9,12 +9,11 @@ tags:
 U盘经常发生读取失败的问题，以下是一次数据恢复的过程记录
 
 <!-- more  -->
+
 ## 一、用到两个软件(先任选一个，不行再使用另一个)
 
 1. Recoverit
 2. Diskgenius
-
-
 ## 二、Recoverit的操作说明
 1. 将这个文件Recoverit-11.0.0.13-Multi-S&C.rar，解压缩到任意位置：
 如图：
