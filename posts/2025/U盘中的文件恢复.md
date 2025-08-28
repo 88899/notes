@@ -1,15 +1,19 @@
 ---
-title: U盘文件修复
+title: U盘中的文件恢复
 date: 2022-08-27
 categories:
   - OPS
 tags:
   - 技术
+avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.png
+author: Sherry
+series: mjj
 ---
+
 ## 概要
 U盘经常发生读取失败的问题，以下是一次数据恢复的过程记录，用到了两款软件。
 
-<!-- more  -->
+
 
 ## 一、用到两个软件(先任选一个，不行再使用另一个)
 
