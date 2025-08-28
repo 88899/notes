@@ -1,5 +1,5 @@
 ---
-title: Free vps清单
+title: 使用Chatgpt获取全网Free vps清单
 author: AiEDU
 avatar: /img/personal/avatar.png
 date: 2023-02-27
