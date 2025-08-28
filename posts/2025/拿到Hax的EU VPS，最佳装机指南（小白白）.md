@@ -7,6 +7,8 @@ avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.p
 author: Sherry
 series: mjj
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815175125342.png
+tags:
+  - 技术
 ---
 
 ## 概要

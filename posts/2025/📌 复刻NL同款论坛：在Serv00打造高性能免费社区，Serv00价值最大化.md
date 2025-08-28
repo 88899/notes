@@ -1,6 +1,6 @@
 ---
 title: 复刻NL同款论坛：在Serv00打造高性能免费社区，Serv00价值最大化
-date: 2025-01-20
+date: 2024-01-20
 author: Flio Niu
 avatar: /img/personal/avatar.png
 categories:
