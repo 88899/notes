@@ -9,11 +9,12 @@ tags:
 categories:
   - 编程
 series: mjj
+math: "true"
 ---
 
 ## 概要
 本文是一篇在Hugo项目中引入数学公式支持的实操说明。
-
+<!--more-->
 ## 使用Mathjax
 
 ```html
