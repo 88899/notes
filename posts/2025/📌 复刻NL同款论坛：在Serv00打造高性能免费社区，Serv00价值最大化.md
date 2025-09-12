@@ -1,13 +1,17 @@
 ---
 title: 复刻NL同款论坛：在Serv00打造高性能免费社区，Serv00价值最大化
-date: 2024-01-20
+description: Serv00 免费服务器 免费节点 容器平台 一键脚本
+date: 2023-01-20
+lastmod: 2023-02-11
 author: Flio Niu
 avatar: /img/personal/avatar.png
 categories:
-  - VPS
+  - DevOps
 tags:
-  - serv00
-series: mjj
+  - VPS
+  - VPN
+  - 运维
+series: Serv00
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174321236.png
 ---
 
