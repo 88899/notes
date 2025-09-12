@@ -1,13 +1,17 @@
 ---
 title: 使用Chatgpt获取全网Free vps清单
+description: 【真免费 VPS 推荐（非试用）】无需绑信用卡，支持 Python/PHP/Docker，月流量 25GB+，含 Byet.host/HelioHost 等 13 家服务商，附续期与功能详情
+date: 2023-02-11
+lastmod: 2023-02-26
 author: AiEDU
 avatar: /img/personal/avatar.png
-date: 2023-02-27
-tags:
-  - 技术
 categories:
   - VPS
-series: mjj
+  - DevOps
+tags:
+  - 工具
+  - VPN
+series: 免费VPS
 ---
 ## 概要
 

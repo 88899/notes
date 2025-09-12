@@ -1,13 +1,17 @@
 ---
 title: 在 Linux VPS 上安装与配置 WARP-CLI 并通过 Socks5 代理接入 WARP 网络
+description: 【Linux VPS WARP 配置避坑】Proxy 模式避免 VPS 失联，Ubuntu/Debian 分步教安装 WARP-CLI、设 Socks5 代理，附 IPv6 转 IPv4 方法，含验证命令
+date: 2025-02-22
+lastmod: 2025-02-22
 avatar: /img/personal/avatar.png
-date: 2025-08-22
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250822092018412.png
 categories:
   - VPS
 tags:
-  - warp
-series: mjj
+  - WARP
+  - 技术
+  - 工具
+series: 免费VPS
+cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250822092018412.png
 ---
 
 ## 📌 背景说明

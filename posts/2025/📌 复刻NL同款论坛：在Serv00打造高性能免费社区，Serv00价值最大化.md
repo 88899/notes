@@ -1,6 +1,6 @@
 ---
 title: 复刻NL同款论坛：在Serv00打造高性能免费社区，Serv00价值最大化
-description: Serv00 免费服务器 免费节点 容器平台 一键脚本
+description: 如何用 Serv00 幸存账号薅免费羊毛？教你搭建与 NL 一致的论坛：下载对应 PHP8.1 版 Flarum no-public 源码，上传解压到 public_html，浏览器安装 + 后台设置，还能装语言扩展，附案例展示。
 date: 2023-01-20
 lastmod: 2023-02-11
 author: Flio Niu
@@ -11,7 +11,8 @@ tags:
   - VPS
   - VPN
   - 运维
-series: Serv00
+  - Serv00
+series: 免费VPS
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174321236.png
 ---
 

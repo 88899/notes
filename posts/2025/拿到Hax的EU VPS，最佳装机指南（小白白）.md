@@ -1,14 +1,18 @@
 ---
 title: 拿到Hax的EU VPS，最佳装机指南（小白白）
-date: 2025-05-20
-categories:
-  - VPS
+description: Hax EU VPS 小白配置指南】Debian12 系统首选（解决 Ubuntu20 报错 / 24 卡顿），含 DNS 修改、Warp 安装、Docker 部署，3xui/Singbox 节点搭建对比，实测可用
+date: 2023-02-20
+lastmod: 2023-06-11
 avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.png
 author: Sherry
-series: mjj
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815175125342.png
+categories:
+  - VPS
 tags:
-  - 技术
+  - VPN
+  - WARP
+  - HAX
+series: 免费VPS
+cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815175125342.png
 ---
 
 ## 概要

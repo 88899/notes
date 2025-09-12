@@ -1,12 +1,18 @@
 ---
 title: 从API Key到智能对话：基于LangChain的流式聊天应用开发实战
-date: 2025-03-25
+description: LangChain+OpenAI API Key 开发指南：完整流式聊天 Demo，覆盖上下文记忆、多会话管理、生产级安全配置，助开发者快速落地智能客服 / 教育助手
+date: 2024-05-25
+lastmod: 2025-01-20
 author: Wang Wei
+avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170905751.png
 categories:
   - AI
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170905751.png
+  - 编程
 tags:
-  - 技术
+  - LangChain
+  - OpenAI
+  - GPT
+series: 开发指南
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174145021.png
 ---
 

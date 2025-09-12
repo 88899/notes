@@ -1,13 +1,17 @@
 ---
 title: U盘中的文件恢复
+description: 【U 盘读取失败数据恢复】用 Recoverit（安装破解 + 选文件恢复）或 Diskgenius（解压即用），附 U 盘无法识别 360 修复法，重要数据建议找专业服务
 date: 2022-08-27
-categories:
-  - OPS
-tags:
-  - 技术
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.png
+lastmod: 2022-08-27
 author: Sherry
-series: mjj
+avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.png
+categories:
+  - IT
+tags:
+  - 工具
+  - U盘
+  - 经验
+series: 数据恢复
 ---
 
 ## 概要

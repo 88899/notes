@@ -1,15 +1,18 @@
 ---
 title: 如何在Hugo项目中加入数学公式的支持
-date: 2025-08-30
+description: 【Hugo 集成数学公式教程】手把手给 MathJax/KaTeX 配置代码，详解两者优缺点：MathJax 兼容全，KaTeX 速度快，帮 Hugo 用户选对工具
+date: 2024-08-30
+lastmod: 2024-09-11
 avatar: /img/personal/avatar.png
 author: AiEDU
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250830160554820.png
-tags:
-  - 技术
 categories:
   - 编程
-series: mjj
+tags:
+  - 技术
+  - HUGO
+series: 建站
 math: "true"
+cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250830160554820.png
 ---
 
 ## 概要

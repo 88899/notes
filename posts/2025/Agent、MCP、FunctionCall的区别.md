@@ -1,14 +1,18 @@
 ---
 title: Agent、MCP、FunctionCall的区别
-date: 2025-04-08
+description: 【AI 工具选型：Agent/MCP/Function Call】对比三者定位（决策 / 标准化 / 扩展），给任务复杂度 / 部署灵活度参考，解决 AI 工具选型难题
+date: 2024-04-08
+lastmod: 2024-05-05
+avatar: /img/personal/avatar.png
 categories:
   - AI
-avatar: /img/personal/avatar.png
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174907420.png
 tags:
-  - mcp
+  - GPT
+  - MCP
+  - OpenAI
   - 技术
-  - agent
+series: 开发指南
+cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174907420.png
 ---
 
 

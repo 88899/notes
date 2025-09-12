@@ -1,13 +1,18 @@
 ---
 title: Lade.io注册到搭建应用, 小白完全指南
-date: 2025-05-03
+description: 【Lade.io 部署 Sing-box 教程】从注册（邮箱 + GitHub 验证）到下载 Sing-box 文件、修改 start.sh，再到 mac CLI 安装部署，日志提取节点信息，小白友好
+date: 2024-03-03
+lastmod: 2024-03-03
 author: Sherry
+avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170937500.png
 categories:
   - VPS
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170937500.png
 tags:
-  - lade
-series: mjj
+  - Docker
+  - 容器
+  - 工具
+  - Lade
+series: 免费VPS
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174648479.png
 ---
 

@@ -1,13 +1,17 @@
 ---
 title: 怎么让Hugo支持markdown 流程图
-date: 2025-08-30
+description: 【Hugo 集成 Mermaid 流程图】教你创建 mermaid.html 模板、引入脚本，Markdown 加 front matter 即可用，支持主题适配、自定义样式，附预览验证命令
+date: 2024-08-30
+lastmod: 2024-08-30
+author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
+  - 知识库
   - 编程
 tags:
-  - 技术
-author: AiEDU
-series: mjj
+  - HUGO
+  - 工具
+series: 开发指南
 mermaid: "true"
 ---
 
