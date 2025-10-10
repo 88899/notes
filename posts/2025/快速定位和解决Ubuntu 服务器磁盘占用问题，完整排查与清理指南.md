@@ -25,7 +25,6 @@ cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20251010095940614.pn
 
 ### 操作指令
 
-bash
 
 ```bash
 df -h
