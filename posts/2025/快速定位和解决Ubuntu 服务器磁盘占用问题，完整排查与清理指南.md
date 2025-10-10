@@ -7,6 +7,7 @@ author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
   - DevOps
+  - VPS
 tags:
   - 技术
 series: 免费VPS
