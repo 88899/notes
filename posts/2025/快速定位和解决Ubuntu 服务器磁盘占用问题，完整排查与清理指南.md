@@ -11,6 +11,7 @@ tags:
   - 技术
 series: 免费VPS
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20251010095940614.png
+image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20251010095940614.png
 ---
 
 在服务器运维中，“磁盘空间满了” 是高频问题。以下将以一个真实场景为例，从发现磁盘占满开始，一步步教你定位占用源、分析原因，并安全清理，全程附具体操作指令和效果验证，新手也能跟着做。
