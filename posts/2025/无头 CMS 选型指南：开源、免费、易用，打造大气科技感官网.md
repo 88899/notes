@@ -13,6 +13,7 @@ tags:
   - 技术
 series: 建站
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250919175958996.png
+image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250919175958996.png
 ---
 
 

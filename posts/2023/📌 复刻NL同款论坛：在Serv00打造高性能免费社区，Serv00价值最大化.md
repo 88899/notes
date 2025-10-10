@@ -14,6 +14,7 @@ tags:
   - Serv00
 series: 免费VPS
 cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174321236.png
+image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174321236.png
 ---
 
 ### 初衷
