@@ -12,7 +12,6 @@ tags:
   - HUGO
 series: 建站
 math: "true"
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250830160554820.png
 image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250830160554820.png
 ---
 

@@ -13,7 +13,6 @@ tags:
   - Docker
   - 容器
 series: 开发指南
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250811121011583.png
 image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250811121011583.png
 ---
 

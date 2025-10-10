@@ -13,7 +13,6 @@ tags:
   - OpenAI
   - GPT
 series: 开发指南
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174145021.png
 image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174145021.png
 ---
 

@@ -13,7 +13,6 @@ tags:
   - 工具
   - Lade
 series: 免费VPS
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174648479.png
 image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174648479.png
 ---
 
