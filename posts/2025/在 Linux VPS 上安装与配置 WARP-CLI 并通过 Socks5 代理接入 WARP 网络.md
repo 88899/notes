@@ -11,7 +11,6 @@ tags:
   - 技术
   - 工具
 series: 免费VPS
-cover: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250822092018412.png
 image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250822092018412.png
 ---
 
