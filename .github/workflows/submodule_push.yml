@@ -1,0 +1,28 @@
+name: submodule_push
+on:
+  push:
+    branches: [ main ]  # submodule 推送的分支
+
+jobs:
+  push-empty-commit-to-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.MAIN_REPO }}  # 主仓库路径
+          ref: ${{ secrets.MAIN_BRANCH }}       # 主仓库分支
+          token: ${{ secrets.SUBMODULE_TRIGGER_TOKEN }}        # 用于推送的 PAT
+          path: hugo-blog                       # 主仓库克隆到本地的目录
+
+      - name: Push empty commit to main repo
+        run: |
+          # 进入主仓库目录
+          cd hugo-blog
+          # 配置提交者信息
+          git config --global user.name "gitmen"
+          git config --global user.email "githubmen@gmail.com"
+          # 推送空提交（--allow-empty 允许无变更的提交）
+          git commit --allow-empty -m "Trigger deploy from submodule: $(git rev-parse --short HEAD)"
+          # 推送到主仓库分支
+          git push origin ${{ secrets.MAIN_BRANCH }}
