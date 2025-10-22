@@ -10,8 +10,8 @@ jobs:
       - name: Checkout main repo
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.MAIN_REPO }}  # 主仓库路径
-          ref: ${{ secrets.MAIN_BRANCH }}       # 主仓库分支
+          repository: ${{ secrets.MAIN_REPO }}  # 主仓库路径(格式 用户名/主仓库名)
+          ref: ${{ secrets.MAIN_BRANCH }}       # 主仓库分支(main)
           token: ${{ secrets.SUBMODULE_TRIGGER_TOKEN }}        # 用于推送的 PAT
           path: hugo-blog                       # 主仓库克隆到本地的目录
 
