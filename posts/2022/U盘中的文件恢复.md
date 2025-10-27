@@ -4,7 +4,7 @@ description: 【U 盘读取失败数据恢复】用 Recoverit（安装破解 + �
 date: 2022-08-27
 lastmod: 2022-08-27
 author: Sherry
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170400658.png
+avatar: https://s3.aiedu.qzz.io/website/2025/10/c9636914b0782ae3f9269b50dcb88659.png
 categories:
   - IT
 tags:

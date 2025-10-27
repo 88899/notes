@@ -13,7 +13,7 @@ tags:
   - 运维
   - Serv00
 series: 免费VPS
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174321236.png
+image: https://s3.aiedu.qzz.io/website/2025/10/f605631c0b2a5cc96b5d4839abc3ec84.png
 ---
 
 ### 初衷

@@ -12,7 +12,7 @@ tags:
   - OpenAI
   - 技术
 series: 开发指南
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174907420.png
+image: https://s3.aiedu.qzz.io/website/2025/10/722c3cf92b5f09bbf80b6a4e5c47350b.png
 ---
 
 

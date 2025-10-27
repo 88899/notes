@@ -4,7 +4,7 @@ description: 【Lade.io 部署 Sing-box 教程】从注册（邮箱 + GitHub 验
 date: 2024-03-03
 lastmod: 2024-03-03
 author: Sherry
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170937500.png
+avatar: https://s3.aiedu.qzz.io/website/2025/10/c6c6fec07e85dec05895473a2965d864.png
 categories:
   - VPS
 tags:
@@ -13,7 +13,7 @@ tags:
   - 工具
   - Lade
 series: 免费VPS
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174648479.png
+image: https://s3.aiedu.qzz.io/website/2025/10/f01c7e6a5b74279b0e1e7745f2206974.png
 ---
 
 

@@ -12,7 +12,7 @@ tags:
   - 经验
   - 技术
 series: 建站
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250919175958996.png
+image: https://s3.aiedu.qzz.io/website/2025/10/736f691b8d0288986e5e6c0a9f0005c4.png
 ---
 
 

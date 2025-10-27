@@ -12,7 +12,7 @@ tags:
   - HUGO
 series: 建站
 math: "true"
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250830160554820.png
+image: https://s3.aiedu.qzz.io/website/2025/10/36910d5a1fe0ecebe5dd84ed56fe26cd.png
 ---
 
 ## 概要

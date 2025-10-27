@@ -4,7 +4,7 @@ description: MCP 协议核心资源合集】含 GitHub 官方服务器库、Awes
 date: 2024-02-20
 lastmod: 2024-03-11
 author: Xiao Mi
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170937500.png
+avatar: https://s3.aiedu.qzz.io/website/2025/10/c6c6fec07e85dec05895473a2965d864.png
 categories:
   - AI
   - 编程
@@ -12,7 +12,7 @@ tags:
   - GPT
   - MCP
 series: 开发指南
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174411061.png
+image: https://s3.aiedu.qzz.io/website/2025/10/8c9c7001fd74f92f6ab74c66bc398fbd.png
 ---
 
 

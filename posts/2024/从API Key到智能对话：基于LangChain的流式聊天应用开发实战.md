@@ -4,7 +4,7 @@ description: LangChain+OpenAI API Key 开发指南：完整流式聊天 Demo，�
 date: 2024-05-25
 lastmod: 2025-01-20
 author: Wang Wei
-avatar: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250807170905751.png
+avatar: https://s3.aiedu.qzz.io/website/2025/10/3bc7c81204f9fae60c895f587b9f49b0.png
 categories:
   - AI
   - 编程
@@ -13,7 +13,7 @@ tags:
   - OpenAI
   - GPT
 series: 开发指南
-image: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/20250815174145021.png
+image: https://s3.aiedu.qzz.io/website/2025/10/3e9403ccf676ee8a3448dd16b62ca4ed.png
 ---
 
 
