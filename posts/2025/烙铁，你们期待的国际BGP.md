@@ -212,7 +212,3 @@ dd if=/dev/zero of=test bs=64k count=4k oflag=dsync
 |CloudCone|圣何塞|中|$12|稳定但带宽偏低|
 |GreenCloud|香港|高|$25|网络优异但贵|
 
----
-
-是否希望我帮你再生成一个**可空白填写版（纯模板，无数据）**？  
-这样你就能批量用同一格式写多家 VPS 测评。
