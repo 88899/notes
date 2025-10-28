@@ -15,6 +15,7 @@ image: https://s3.aiedu.qzz.io/website/2025/10/f827a09e011ae662fe001642683a031f.
 ---
 
 ## 📌 背景说明
+
 Cloudflare 提供的 WARP 服务，默认用于客户端加速网络。但在 VPS 上直接运行 WARP-CLI，**会接管 VPS 全部流量**，导致 VPS 失联。  
 为避免此问题，本教程指导你在 Linux VPS 上以 **Proxy 模式** 运行 WARP-CLI，使其仅在本地创建一个 Socks5 代理端口，你可以将需要的应用流量通过该端口走 WARP 网络。
 
