@@ -6,6 +6,7 @@ lastmod: 2024-05-05
 avatar: /img/personal/avatar.png
 categories:
   - AI
+  - 编程
 tags:
   - GPT
   - MCP

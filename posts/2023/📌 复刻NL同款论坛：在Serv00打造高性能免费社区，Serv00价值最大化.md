@@ -6,7 +6,7 @@ lastmod: 2023-02-11
 author: Flio Niu
 avatar: /img/personal/avatar.png
 categories:
-  - DevOps
+  - VPS
 tags:
   - VPS
   - VPN

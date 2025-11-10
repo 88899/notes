@@ -9,8 +9,9 @@ tags:
   - 技术
   - LangChain
 categories:
+  - AI
+  - 干货
   - 编程
-  - 知识库
 series: 开发指南
 image: https://s3.aiedu.qzz.io/website/2025/11/c8dbe35077ef88d2a542df4f656488ee.png
 ---

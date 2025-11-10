@@ -6,8 +6,7 @@ lastmod: 2024-08-11
 author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
-  - DevOps
-  - VPS
+  - 运维
 tags:
   - 运维
   - Docker

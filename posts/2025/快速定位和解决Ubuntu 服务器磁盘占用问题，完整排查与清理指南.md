@@ -6,8 +6,8 @@ description: 在服务器运维中，“磁盘空间满了” 是高频问题。
 author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
-  - DevOps
-  - VPS
+  - 运维
+  - 干货
 tags:
   - 技术
 series: 免费VPS

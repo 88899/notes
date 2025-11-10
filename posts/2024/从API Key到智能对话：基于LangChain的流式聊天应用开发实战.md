@@ -8,6 +8,7 @@ avatar: https://s3.aiedu.qzz.io/website/2025/10/3bc7c81204f9fae60c895f587b9f49b0
 categories:
   - AI
   - 编程
+  - 干货
 tags:
   - LangChain
   - OpenAI

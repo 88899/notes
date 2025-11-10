@@ -6,7 +6,7 @@ lastmod: 2024-08-30
 author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
-  - 知识库
+  - 架构
   - 编程
 tags:
   - HUGO

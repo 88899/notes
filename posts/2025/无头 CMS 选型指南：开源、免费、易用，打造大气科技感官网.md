@@ -6,7 +6,7 @@ lastmod: 2025-09-18
 author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
-  - 编程
+  - 架构
 tags:
   - 工具
   - 经验

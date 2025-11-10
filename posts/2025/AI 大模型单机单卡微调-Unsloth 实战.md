@@ -7,6 +7,7 @@ author: Sherry
 avatar: https://s3.aiedu.qzz.io/website/2025/10/c9636914b0782ae3f9269b50dcb88659.png
 categories:
   - AI
+  - 干货
   - 编程
 tags:
   - 技术

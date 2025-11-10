@@ -7,7 +7,6 @@ author: AiEDU
 avatar: /img/personal/avatar.png
 categories:
   - VPS
-  - DevOps
 tags:
   - 工具
   - VPN
